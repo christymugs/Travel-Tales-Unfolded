@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --title-color: hsl(0, 0%, 95%);
+  --title-color:hsl(0, 0%, 95%);
   --text-color: hsl(0, 0%, 70%);
   --text-color-light: hsl(0, 0%, 60%);
   --body-color: hsl(0, 0%, 0%);
